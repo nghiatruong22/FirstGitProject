@@ -1,4 +1,4 @@
-void main()
+void main() //o ham gi the??
 {
 	print("nghia");
 }
