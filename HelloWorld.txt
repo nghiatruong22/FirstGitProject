@@ -1,4 +1,4 @@
-void main()
+void main() //ben day tao sua chung dong cho conflict choi ne
 {
 	print("nghia");
 }
