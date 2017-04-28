@@ -1,4 +1,5 @@
-void main() //ben day tao sua chung dong cho conflict choi ne
+void main() //o ham gi the??
+//void main() //ben day tao sua chung dong cho conflict choi ne
 {
 	print("nghia");
 }
